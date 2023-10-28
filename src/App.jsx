@@ -1,4 +1,4 @@
-import Portada from "./components/portada"
+import Portada from "./components/Portada"
 function App() {
 
   return (
